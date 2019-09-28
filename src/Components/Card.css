@@ -1,0 +1,19 @@
+.custom-letters, .custom-letters:hover, .custom-letters:visited{
+    color: black;
+    text-decoration: none;
+    text-shadow: 1px 1px 3px lightgray;
+}
+.hoverc:not(:first-child){
+    margin-top: 2%;
+}
+.hoverc:last-child{
+    margin-bottom: 10%;
+}
+.hoverc:hover{
+    transform: translateY(-0.25rem);
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+.stars{
+    color: tomato;
+    text-shadow: 1px 1px 1px black;
+}
