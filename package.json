@@ -2,7 +2,7 @@
   "name": "lamps",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://natalijajovanovska.github.io/lamps",
+  "homepage": "http://natalijajovanovska.github.io/lamps/",
   "dependencies": {
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
