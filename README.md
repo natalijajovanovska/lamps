@@ -1,4 +1,4 @@
-# Simple App - Lamps
+# Simple App - Lamps, published at: https://natalijajovanovska.github.io/lamps/#/
 Built using React.js, with JSON data
 <br />
 <br />
