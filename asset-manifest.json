@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lamps/static/css/main.c29f2fe6.chunk.css",
+    "main.js": "/lamps/static/js/main.d028538a.chunk.js",
+    "main.js.map": "/lamps/static/js/main.d028538a.chunk.js.map",
+    "runtime-main.js": "/lamps/static/js/runtime-main.981dc26c.js",
+    "runtime-main.js.map": "/lamps/static/js/runtime-main.981dc26c.js.map",
+    "static/js/2.dc4e6dbb.chunk.js": "/lamps/static/js/2.dc4e6dbb.chunk.js",
+    "static/js/2.dc4e6dbb.chunk.js.map": "/lamps/static/js/2.dc4e6dbb.chunk.js.map",
+    "index.html": "/lamps/index.html",
+    "precache-manifest.7b567125259808a6fc0442654e514d3f.js": "/lamps/precache-manifest.7b567125259808a6fc0442654e514d3f.js",
+    "service-worker.js": "/lamps/service-worker.js",
+    "static/css/main.c29f2fe6.chunk.css.map": "/lamps/static/css/main.c29f2fe6.chunk.css.map",
+    "static/media/1.jpg": "/lamps/static/media/1.3e5825ea.jpg",
+    "static/media/3.jpg": "/lamps/static/media/3.2cedaac8.jpg",
+    "static/media/4.jpg": "/lamps/static/media/4.db8a3bcf.jpg",
+    "static/media/6.jpg": "/lamps/static/media/6.06086aa7.jpg",
+    "static/media/7.jpg": "/lamps/static/media/7.d5eef952.jpg",
+    "static/media/8.jpg": "/lamps/static/media/8.4f2b8daa.jpg"
+  }
+}
